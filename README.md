@@ -1,2 +1,2 @@
 # WebDevBootcamp
-Repository for all the files used in the Web Developer Bootcamp Course with Colt Steele on Udemy
+Repository for all the files used in final production application 'YelpCamp' from the Web Developer Bootcamp Course with Colt Steele on Udemy.
